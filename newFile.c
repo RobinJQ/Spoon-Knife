@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("This is a sentence.\n");
+	//Prints a sentence  
+	printf("This is a sentence.\n");
 }
